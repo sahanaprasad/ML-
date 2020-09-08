@@ -3,7 +3,7 @@ MultinomialNB algorithm in Naive byes is used to classify the sourceField
 ngram model is used to check the text similarity
 drivercode.py contains the driver code of the service
 All the APIs are written in flask webframework
-
+All the request response are in JSON fromat.
 
 API 1
 takes the source and target fields, maps the respective fields and also determines the confidence leve. 
